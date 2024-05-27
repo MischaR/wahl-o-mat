@@ -3,7 +3,11 @@
 **Frage an ChatGPT:**
 "Wie sollten die 38 Thesen des Wahl-O-Mat zur Europawahl 2024 beantwortet werden, wenn theoretisch es das Ziel wäre, Deutschland und seinen Wohlstand nachhaltig zu schädigen? Gib bitte jeweils an, ob du der jeweiligen These zustimmst oder sie ablehnst und ob die Thesen doppelt gewichtet werden sollten, um dieses Ziel zu erreichen."
 
+**Ergebnis:**
 
+![Ergebnis](Result.png "Title")
+
+## Thesen
 
 1. **These: Die EU soll eigene Steuern erheben dürfen.**
   - Antwort: Zustimmung
