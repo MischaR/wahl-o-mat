@@ -1,7 +1,48 @@
 # ChatGPT-4o Wahl-O-Mat
 
 **Frage an ChatGPT:**
-"Wie sollten die 38 Thesen des Wahl-O-Mat zur Europawahl 2024 beantwortet werden, wenn theoretisch es das Ziel wäre, Deutschland und seinen Wohlstand nachhaltig zu schädigen? Gib bitte jeweils an, ob du der jeweiligen These zustimmst oder sie ablehnst und ob die Thesen doppelt gewichtet werden sollten, um dieses Ziel zu erreichen."
+Wie sollten die 38 Thesen des Wahl-O-Mat zur Europawahl 2024 beantwortet werden, wenn theoretisch es das Ziel wäre, Deutschland und seinen Wohlstand nachhaltig zu schädigen? Gib bitte jeweils an, ob du der jeweiligen These zustimmst oder sie ablehnst und ob die Thesen doppelt gewichtet werden sollten, um dieses Ziel zu erreichen. Bitte begründe die Entscheidung.
+
+01. These: Die EU soll eigene Steuern erheben dürfen.
+02. These: Fahrzeuge mit Verbrennungsmotoren sollen auch nach 2035 in der EU neu zugelassen werden können.
+03. These: Die EU soll eine eigene Seenotrettung im Mittelmeer aufbauen.
+04. These: Die Ukraine soll Mitglied der EU werden.
+05. These: Die EU soll vorrangig ökologische Landwirtschaft fördern.
+06. These: In Deutschland soll der Euro durch eine nationale Währung ersetzt werden.
+07. These: Die EU soll den Mitgliedstaaten empfehlen, außer „weiblich“ und „männlich“ auch die Eintragung einer anderen Geschlechtsidentität im Pass zu ermöglichen.
+08. These: Die Jagd auf Wölfe soll in Regionen erlaubt sein, in denen der Bestand dadurch nicht gefährdet ist.
+09. These: Beim Bau neuer Wohngebäude in der EU soll die Errichtung von Photovoltaikanlagen verpflichtend sein.
+10. These: Mehr außenpolitische Entscheidungen der EU sollen mit Mehrheit statt einstimmig getroffen werden.
+11. These: Der Flugzeugtreibstoff Kerosin soll für Flüge in der EU steuerfrei sein.
+12. These: Die gemeinsame europäische Polizeibehörde Europol soll weitere Befugnisse erhalten.
+13. These: Die EU soll länderübergreifende, mehrsprachige Angebote des öffentlich-rechtlichen Rundfunks stärker finanziell fördern.
+14. These: Die EU soll das Ziel verwerfen, klimaneutral zu werden.
+15. These: Bei den Wahlen zum Europäischen Parlament sollen die Parteien weiterhin frei entscheiden können, wie groß der Anteil der Geschlechter auf ihren Listen ist.
+16. These: Die EU soll Vorgaben für die Höhe der sozialen Grundsicherung in den Mitgliedstaaten machen.
+17. These: Betreiber sozialer Netzwerke sollen frei entscheiden dürfen, wie sie mit Desinformation auf ihren Plattformen umgehen.
+18. These: In der EU sollen mehr Flächen als Naturschutzgebiete ausgewiesen werden.
+19. These: EU-Fördermittel für Mitgliedstaaten, die Regeln und Werte der EU verletzen, sollen weiterhin zurückgehalten werden.
+20. These: Die EU soll mehr Waffen für die Ukraine finanzieren.
+21. These: Die zulässige Menge an Fischen, die in EU-Gewässern gefangen werden dürfen, soll gesenkt werden.
+22. These: Die Einfuhrzölle der EU auf chinesische Elektroautos sollen erhöht werden.
+23. These: Die EU soll sich dafür einsetzen, dass Schwangerschaftsabbrüche in allen Mitgliedstaaten straffrei möglich sind.
+24. These: Es sollen wieder dauerhafte Grenzkontrollen zwischen den Mitgliedstaaten der EU stattfinden.
+25. These: Die Aufnahme neuer Staaten in die EU soll in allen Mitgliedstaaten durch Volksabstimmungen bestätigt werden müssen.
+26. These: Die EU soll den Anbau von weiteren gentechnisch veränderten Pflanzensorten erlauben.
+27. These: Geschlechtsspezifische Gewalt gegen Frauen soll europaweit als Asylgrund anerkannt werden.
+28. These: Urheberrechtlich geschützte Werke (z.B. Fotos, Musik, Literatur) sollen in der EU für nicht-kommerzielle Zwecke kostenlos verwendet werden dürfen.
+29. These: Die Sanktionen der EU gegen Russland sollen abgebaut werden.
+30. These: Das Erasmus+ Stipendium für Auslandsaufenthalte soll für Studierende, die über weniger finanzielle Mittel verfügen, höher sein.
+31. These: Die EU soll Atomkraft weiterhin als nachhaltige Energiequelle einstufen.
+32. These: Die Einwanderung von Fachkräften in die EU soll vereinfacht werden.
+33. These: Die Beteiligung außereuropäischer Investoren an Unternehmen im Bereich kritischer Infrastruktur soll in der EU stärker beschränkt werden.
+34. These: Der Präsident bzw. die Präsidentin der Europäischen Kommission soll von den Bürgerinnen und Bürgern direkt gewählt werden.
+35. These: In der EU sollen Unternehmen mehr für den Ausstoß von CO₂ zahlen müssen.
+36. These: Asylbewerberinnen und -bewerber sollen ihren Antrag vor Überschreiten der EU-Außengrenze stellen müssen und dort auf das Ergebnis warten.
+37. These: Die EU soll weiterhin in gemeinsame europäische Rüstungsprojekte investieren.
+38. These: Das Europäische Parlament soll weiterhin eine zentrale Rolle in der EU spielen.
+
+
 
 **Ergebnis:**
 
